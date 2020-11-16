@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f5f9b61-9b36-4411-b1b7-d0242ce96a6c" name="Default Changelist" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kMU0NJtj799oORhUvDDHTqdNBr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f5f9b61-9b36-4411-b1b7-d0242ce96a6c" name="Default Changelist" comment="" />
+      <created>1605509729760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605509729760</updated>
+      <workItem from="1605509731460" duration="24000" />
+      <workItem from="1605509785676" duration="659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="962" y="352" key="#Notifications" timestamp="1605510246049">
+      <screen x="0" y="0" width="1920" height="1003" />
+    </state>
+    <state x="962" y="352" key="#Notifications/0.0.1920.1003@0.0.1920.1003" timestamp="1605510246049" />
+    <state x="729" y="160" key="SettingsEditor" timestamp="1605510034481">
+      <screen x="0" y="0" width="1920" height="1003" />
+    </state>
+    <state x="729" y="160" key="SettingsEditor/0.0.1920.1003@0.0.1920.1003" timestamp="1605510034481" />
+    <state x="885" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1605510006535">
+      <screen x="0" y="0" width="1920" height="1003" />
+    </state>
+    <state x="885" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1920.1003@0.0.1920.1003" timestamp="1605510006535" />
+  </component>
+</project>
